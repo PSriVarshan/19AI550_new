@@ -1,7 +1,6 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
 ### DATE:                                                                 
-### REGISTER NUMBER : 212222240044
-### NAME: KANISHKAR M
+### REGISTER NUMBER : 212222240104
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
